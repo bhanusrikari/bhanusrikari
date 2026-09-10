@@ -40,8 +40,6 @@ Open to **internships**
 
 </div>
 
-<br>
-
 ## Stack
 
 <table width="100%">
