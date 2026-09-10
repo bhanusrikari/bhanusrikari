@@ -131,16 +131,6 @@ Practical software and professional engineering exposure covering Agile methodol
 
 <br>
 
-## Achievements
-
-<table width="100%">
-<tr><td width="30%">🏅 TG ECET</td><td>State Rank 30</td></tr>
-<tr><td>🏅 AP ECET</td><td>State Rank 90</td></tr>
-<tr><td>🧩 Hackathons</td><td>5 participated · finalist in 2</td></tr>
-</table>
-
-<br>
-
 ## Leadership
 
 **Computer Society of India, VNR VJIET** — Designing Head
